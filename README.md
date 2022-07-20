@@ -17,6 +17,7 @@ The purpose of this project is to practice working with and exploring datasets i
 * Pandas, jupyter
 * Seaborn
 * scikit-learn
+* numpy
 
 ## Project Description
 This project utilizes the [iris dataset](https://www.kaggle.com/datasets/uciml/iris?datasetId=19&sortBy=voteCount), which is where most people start with their data science explorations. This project marks the start of my journey in developing my skills in data science. Right now, the scope of this project is to set a starting benchmark for my skills and to try to dive into machine learning with scikit-learn. I'm seeking to learn to ask questions about a dataset that aren't the most obvious, and to be able to extend my learning from my coursework. This might be an extremely simple dataset, but I know that there's a lot of information I can derive from the data and there's a long way before I am able to do so.
